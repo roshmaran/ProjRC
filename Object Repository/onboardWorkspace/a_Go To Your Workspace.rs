@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Go To Your Workspace</name>
+   <tag></tag>
+   <elementGuidId>6bf6b39e-4ea1-4a1e-90da-eab1a8e5f0f2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.btn.btn-primary</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section/div/div/div/div[3]/div/div[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>288a039a-8d69-4791-b476-7d66072e43c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/servers</value>
+      <webElementGuid>cbc6ee03-f7df-4b72-9519-c8767142c68e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>btn btn-primary</value>
+      <webElementGuid>d8220c19-15e8-4e6e-a6c3-bf9aadb266d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Go To Your Workspace</value>
+      <webElementGuid>e7fcd2eb-86db-4a57-88ee-050106e5fffc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/section[@class=&quot;pt-24 pb-16 min-h-screen&quot;]/div[@class=&quot;w-11/12 mx-auto 3xl:max-w-screen-2xl&quot;]/div[@class=&quot;px-7 md:px-16 xl:px-24 2xl:px-28 pb-7 z-2 flex justify-center&quot;]/div[@class=&quot;w-[40vw]&quot;]/div[@class=&quot;panel panel-default&quot;]/div[@class=&quot;panel-body flex flex-col items-center space-y-4&quot;]/div[@class=&quot;flex flex-col text-center space-y-4&quot;]/a[@class=&quot;btn btn-primary&quot;]</value>
+      <webElementGuid>8c054534-38f1-4e3d-8e73-03126e62c4ff</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div/div/div/div[3]/div/div[3]/a</value>
+      <webElementGuid>da9b6361-f868-47cf-ab85-7ac35824e11e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Go To Your Workspace')]</value>
+      <webElementGuid>79afed53-1370-4959-bbeb-0a4dc99d4646</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your new No workspace has been successfully created.'])[1]/following::a[1]</value>
+      <webElementGuid>0f7dd66c-7a8d-4e27-8599-95ede287d1e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations! Your Workspace is Ready!'])[1]/following::a[1]</value>
+      <webElementGuid>032bfd9d-824c-439c-8a8d-4f2937c120f2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lg (1200px)'])[1]/preceding::a[1]</value>
+      <webElementGuid>81207ed0-cfe3-4da7-b1f0-d6429aa559c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='×'])[1]/preceding::a[1]</value>
+      <webElementGuid>5785434b-9f04-461c-b53d-cb15e1c20b63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Go To Your Workspace']/parent::*</value>
+      <webElementGuid>d49b9de0-d870-4a4d-ad90-4dcbe70e5b25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/servers')]</value>
+      <webElementGuid>ab178684-904e-4f24-9adf-7cee2bbdb313</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a</value>
+      <webElementGuid>7e3f7873-e28c-43af-b308-cfc7d7d67e5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/servers' and (text() = 'Go To Your Workspace' or . = 'Go To Your Workspace')]</value>
+      <webElementGuid>2ac47373-07f9-4857-afcc-d6272f1360ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

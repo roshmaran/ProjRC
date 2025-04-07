@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Personal Space</name>
+   <tag></tag>
+   <elementGuidId>800442b1-1bc5-4d2d-8a17-36bfa0df9712</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-all']/div[2]/div/div[2]/button/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>23474df1-4161-4b78-aa9a-eedbf4a1a16d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center rounded-full px-4 h-9 bg-white/5 hover:shadow max-w-56 has-tooltip</value>
+      <webElementGuid>286a26c8-111c-47b5-871c-6968cdb54cac</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Personal Space</value>
+      <webElementGuid>b620801b-d149-4a24-a2ce-66334d73889f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-all&quot;)/div[@class=&quot;h-[62px] bg-blue-900 w-screen flex px-4 md:px-7 items-center text-white flex-wrap gap-2&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;dropdown&quot;]/button[@class=&quot;flex relative group outline-none&quot;]/div[@class=&quot;flex items-center rounded-full px-4 h-9 bg-white/5 hover:shadow max-w-56 has-tooltip&quot;]</value>
+      <webElementGuid>743629a7-05ac-48cb-85ab-63c8ea5203f5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-all']/div[2]/div/div[2]/button/div</value>
+      <webElementGuid>aacb5ef1-6634-40ba-9774-f9dc382bd980</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::div[5]</value>
+      <webElementGuid>5225a267-f5c2-448f-94a7-457dba6ded7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/div</value>
+      <webElementGuid>f6476b27-6d06-43b9-97ff-7deb10756e1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Personal Space' or . = 'Personal Space')]</value>
+      <webElementGuid>335ab9e5-6075-4346-bd15-bfcad6cafc53</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

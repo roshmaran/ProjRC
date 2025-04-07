@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Create Workspace</name>
+   <tag></tag>
+   <elementGuidId>0943df13-84da-49bf-897e-bfad8332a09f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.flex-1.btn.btn-primary.shrink-0</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@type='submit']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>e5a40ef6-faba-427f-86a3-e382048ae907</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>74f6013f-4c34-46ef-808b-50ee5090fd76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex-1 btn btn-primary shrink-0</value>
+      <webElementGuid>b6b4c94e-e03c-42b8-8e52-b69574113bf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Create Workspace </value>
+      <webElementGuid>1ec1c93f-9285-498a-9fee-250577977617</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[1]/section[@class=&quot;pt-24 pb-16 min-h-screen&quot;]/div[@class=&quot;w-11/12 mx-auto 3xl:max-w-screen-2xl&quot;]/div[@class=&quot;px-7 md:px-16 xl:px-24 2xl:px-28 pb-7 z-2 flex justify-center&quot;]/div[@class=&quot;w-[40vw]&quot;]/form[1]/div[@class=&quot;flex space-x-4&quot;]/button[@class=&quot;flex-1 btn btn-primary shrink-0&quot;]</value>
+      <webElementGuid>d529e6cb-dba8-498a-ad1f-ba031008050b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@type='submit']</value>
+      <webElementGuid>af9111ba-31b4-40c1-8bc7-c9a162730905</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div/div/div/form/div[2]/button</value>
+      <webElementGuid>454bf693-5a1c-405d-96ec-b57668fec4dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::button[1]</value>
+      <webElementGuid>73e3382f-1ade-4589-ae2e-18ed64d35916</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Description'])[1]/following::button[1]</value>
+      <webElementGuid>5051f693-b79f-495e-b5b6-f7c112be956e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='lg (1200px)'])[1]/preceding::button[1]</value>
+      <webElementGuid>14630c1a-bc64-4b87-b865-60be011278b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button</value>
+      <webElementGuid>f6af9d63-e635-4609-b0f5-0105895c73d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and (text() = ' Create Workspace ' or . = ' Create Workspace ')]</value>
+      <webElementGuid>31c1c5bf-dadf-4091-aa86-62d47881d9e0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

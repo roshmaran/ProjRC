@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>accountEmail</name>
+   <tag></tag>
+   <elementGuidId>4139d32e-f619-4207-8f74-41331dd01a19</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-all']/div[2]/div[6]/ul/li/div/div/div[2]/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>b968d64d-109a-4a52-8f6b-453b0d0fd3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>truncate box-content pt-0.5 pb-2 max-w-2xs no-scrollbar text-gray-500</value>
+      <webElementGuid>099fefb1-4057-45be-a6ba-6bcfc8ea9b52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> roshini+4242@runcloud.io</value>
+      <webElementGuid>474d7a1d-bd32-4262-b320-2fd1d6bb3992</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-all&quot;)/div[@class=&quot;h-[62px] bg-blue-900 w-screen flex px-4 md:px-7 items-center text-white flex-wrap gap-2&quot;]/div[@class=&quot;relative dropdown show&quot;]/ul[@class=&quot;dropdown-menu mt-4 pt-0 pb-5 px-0 mr-2 md:mr-0 show&quot;]/li[@class=&quot;border-b bg-gray-50 py-4 relative&quot;]/div[@class=&quot;flex flex-col gap-y-2&quot;]/div[@class=&quot;flex gap-x-3&quot;]/div[@class=&quot;align-start&quot;]/p[@class=&quot;truncate box-content pt-0.5 pb-2 max-w-2xs no-scrollbar text-gray-500&quot;]</value>
+      <webElementGuid>9de57048-05f9-4161-83f5-dd62ae13d7d9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-all']/div[2]/div[6]/ul/li/div/div/div[2]/p</value>
+      <webElementGuid>1108eb3e-446e-4626-b7aa-1e8c459e4cf6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='roshini 4242'])[1]/following::p[1]</value>
+      <webElementGuid>7f15e1f5-be1b-46a1-8a28-1a267f99c608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feature Request'])[1]/following::p[3]</value>
+      <webElementGuid>6eb74359-04ae-4e78-9a2f-94dbdb38533d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='monthly Enterprise'])[1]/preceding::p[1]</value>
+      <webElementGuid>4f1ec5f2-c191-42fe-a929-a64c5e16572a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Build Your Agency'])[1]/preceding::p[1]</value>
+      <webElementGuid>0edff265-c390-431f-855f-d0e630f6aa15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='roshini+4242@runcloud.io']/parent::*</value>
+      <webElementGuid>db50e594-c2cd-4d70-bd15-36e724761746</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/p</value>
+      <webElementGuid>ae55d381-2d5d-476b-84ea-9fe9088569e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = ' roshini+4242@runcloud.io' or . = ' roshini+4242@runcloud.io')]</value>
+      <webElementGuid>150416c8-bb0a-47b5-8d3f-95e9c733bd09</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

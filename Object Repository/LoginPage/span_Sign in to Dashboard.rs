@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Sign in to Dashboard</name>
+   <tag></tag>
+   <elementGuidId>af9e9c56-f1c8-4776-8b11-6f13f3147c7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.relative</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/section/div/div/div/form/button/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>31518400-6529-4d4e-9dad-acaf352a2c6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>relative</value>
+      <webElementGuid>23f328c4-a68f-47f4-b994-9a8eec8976f5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Sign in to Dashboard </value>
+      <webElementGuid>02c7f8bf-f735-41cb-82c1-fba71b14c487</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;relative&quot;]/section[@class=&quot;min-h-screen&quot;]/div[@class=&quot;grid grid-col-1 md:grid-cols-2 h-screen&quot;]/div[@class=&quot;px-7 md:px-16 xl:px-24 2xl:px-28 pt-24 pb-7 md:pt-32 z-2 dynamic-col flex justify-center&quot;]/div[@class=&quot;max-w-lg w-full&quot;]/form[1]/button[@class=&quot;btn btn-primary btn-block btn-lg&quot;]/span[@class=&quot;relative&quot;]</value>
+      <webElementGuid>969d47e2-1d2d-4681-8e8f-08859065b8f3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/section/div/div/div/form/button/span</value>
+      <webElementGuid>87f188b9-a04a-49a0-9f35-48c0a5a67d70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Remember my session'])[1]/following::span[1]</value>
+      <webElementGuid>134c0cdc-a18b-4652-84b8-49ec78f60ef8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[1]/following::span[1]</value>
+      <webElementGuid>3371905f-5a9b-45c8-8795-a3b9e33c6a4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='or continue with'])[1]/preceding::span[1]</value>
+      <webElementGuid>08907d9f-848f-4927-9bc8-5224aed2b477</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GitHub'])[1]/preceding::span[2]</value>
+      <webElementGuid>4b192d7d-b0cb-4a71-891c-c9652197d86e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Sign in to Dashboard']/parent::*</value>
+      <webElementGuid>e7083e86-befd-483d-b72f-eb37b2e52340</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span</value>
+      <webElementGuid>47f79d4c-7f82-4930-a398-0f2a24a709d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' Sign in to Dashboard ' or . = ' Sign in to Dashboard ')]</value>
+      <webElementGuid>7e126f29-72a7-4340-98a1-7a64f74fec02</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

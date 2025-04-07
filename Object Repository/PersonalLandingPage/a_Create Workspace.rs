@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Create Workspace</name>
+   <tag></tag>
+   <elementGuidId>cb9367fe-f46f-4ae7-95a6-25b13c4c9450</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.flex.items-center.py-2.gap-3.group</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbar-all']/div[2]/div/div[2]/div/ul[2]/li[3]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>c67d5336-baac-4dc9-a031-26e59ecd1f89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://manage.runcloud.dev/workspace/onboard?step=create-workspace</value>
+      <webElementGuid>8bde3e02-b1fd-4a44-a32d-9191c7ba63b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>flex items-center py-2 gap-3 group</value>
+      <webElementGuid>654b4370-5177-4399-b16b-825283992134</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Create Workspace</value>
+      <webElementGuid>c68cfa04-5bd4-48c2-8857-0029fee77d81</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbar-all&quot;)/div[@class=&quot;h-[62px] bg-blue-900 w-screen flex px-4 md:px-7 items-center text-white flex-wrap gap-2&quot;]/div[@class=&quot;flex items-center&quot;]/div[@class=&quot;dropdown show&quot;]/div[@class=&quot;dropdown-menu dropdown-menu-left mt-4 p-4 w-80 rounded-xl show&quot;]/ul[@class=&quot;space-y-2&quot;]/li[@class=&quot;mt-3&quot;]/a[@class=&quot;flex items-center py-2 gap-3 group&quot;]</value>
+      <webElementGuid>35f6a91a-d434-4fe0-bc69-d1c76c796d92</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbar-all']/div[2]/div/div[2]/div/ul[2]/li[3]/a</value>
+      <webElementGuid>00da41d2-dcdb-4144-8291-b650a089148d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Feb8 Tech'])[1]/following::a[1]</value>
+      <webElementGuid>186700bd-1c7e-4e6e-bd7d-accd181a431d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fe'])[1]/following::a[1]</value>
+      <webElementGuid>e8b4fa71-740a-4fb2-8a62-4edf60166d1a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='K'])[1]/preceding::a[1]</value>
+      <webElementGuid>1ac9051d-fc17-4cb7-a8ea-6b239bd75105</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://manage.runcloud.dev/workspace/onboard?step=create-workspace')]</value>
+      <webElementGuid>a1945bd6-2acc-46be-b124-15af7096ea22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>4e22628f-c150-4c9d-af11-0abd11b77775</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://manage.runcloud.dev/workspace/onboard?step=create-workspace' and (text() = 'Create Workspace' or . = 'Create Workspace')]</value>
+      <webElementGuid>5b4cef63-e681-4f1a-a57f-f64ebc8b45f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

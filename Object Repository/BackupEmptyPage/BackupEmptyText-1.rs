@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>BackupEmptyText-1</name>
+   <tag></tag>
+   <elementGuidId>268e21cc-8c64-4848-a42e-fb440ca4bad1</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>h2.mb-2</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='content-wrapper']/div/div/div/div/h2</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h2</value>
+      <webElementGuid>86294938-e6c0-4797-9fe9-e92f7faf9b91</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-2</value>
+      <webElementGuid>8c169ae7-a673-40dd-be4f-8532f7b1153c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Protect Your Web App &amp; Database Data with Backups</value>
+      <webElementGuid>1b1a5533-6155-4460-95a1-9204e38dc757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;content-wrapper&quot;)/div[@class=&quot;panel panel-default py-0 px-7&quot;]/div[@class=&quot;panel-body py-8 px-2 md:!px-8&quot;]/div[@class=&quot;md:flex md:items-center md:space-x-20 xl:space-x-32&quot;]/div[@class=&quot;md:w-2/4&quot;]/h2[@class=&quot;mb-2&quot;]</value>
+      <webElementGuid>37b0e4b1-c513-4a05-a9ac-36f9f0c10534</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='content-wrapper']/div/div/div/div/h2</value>
+      <webElementGuid>8ce4c607-f290-44ce-8365-520a1c9265f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Backups'])[2]/following::h2[1]</value>
+      <webElementGuid>24d3e825-9f7b-455e-9146-0bfdab4b4147</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Collapse Menu'])[1]/following::h2[1]</value>
+      <webElementGuid>5b8ca6d7-fc50-4c5f-a50d-079a8e0e81a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Your First Backup'])[1]/preceding::h2[1]</value>
+      <webElementGuid>4a65a984-87be-4515-8fa4-2b26379b2cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Three Backup Storage Types'])[1]/preceding::h2[1]</value>
+      <webElementGuid>16bfeaa3-dd9d-4efb-8847-123a551d2a09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Protect Your Web App &amp; Database Data with Backups']/parent::*</value>
+      <webElementGuid>db212241-9e2a-42b3-aff6-708239b1c545</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h2</value>
+      <webElementGuid>4c96454b-7362-45bd-bdcd-2cbb53fe0bb4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h2[(text() = 'Protect Your Web App &amp; Database Data with Backups' or . = 'Protect Your Web App &amp; Database Data with Backups')]</value>
+      <webElementGuid>3cd01f6c-8379-4b31-af43-a4c9d4f0ebcb</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
